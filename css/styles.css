@@ -31,3 +31,12 @@ body {
 .navbar-dark {
   background-color: steelblue;
 }
+.btn-info {
+  background-color: turquoise;
+}
+.btn-bla {
+  background-color: tomato;
+}
+.btn-bla:hover {
+  background-color: red;
+}
